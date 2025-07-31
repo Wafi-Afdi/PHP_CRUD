@@ -3,7 +3,7 @@ Ini adalah RESTful API yang dibikin dengan laravel. Untuk dapat menjalankan apli
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repo>
+    git clone https://github.com/Wafi-Afdi/PHP_CRUD
     cd <project>
     ```
 
