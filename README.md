@@ -1,4 +1,4 @@
-# Task Manager API
+# CRUD Task API
 Ini adalah RESTful API yang dibikin dengan laravel. Untuk dapat menjalankan aplikasinya, ikutin arahan ini:
 
 1.  **Clone the Repository:**
