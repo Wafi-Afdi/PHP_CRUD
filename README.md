@@ -35,6 +35,12 @@ Ini adalah RESTful API yang dibikin dengan laravel. Untuk dapat menjalankan apli
     ```bash
     php artisan jwt:secret
     ```
+6.  **Jalankan Aplikasi**
+    Untuk menjalankan web app tinggal mengeksekusi:
+    ```bash
+    php artisan serve
+    ```
+    Web app dapat diakses secara lokal di port 8000
 
 
 ## Dokumentasi Endpoint
