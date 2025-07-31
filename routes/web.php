@@ -8,3 +8,7 @@ use App\Http\Controllers\AuthController;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/login', function () {
+    return 'You are not logged in';
+});
